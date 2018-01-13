@@ -1,0 +1,13 @@
+.paralax{
+	background-color: #fff;
+	padding: 35px;
+	color: #fff;
+	background-image: url('../img/gambar3.jpg');
+	height: 100%;
+
+	/*attachment: lampiran*/
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; /*cover: menyeluruh*/
+}
